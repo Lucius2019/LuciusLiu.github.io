@@ -1,6 +1,6 @@
 ## Hello, human!
 
-Welcome to Lucius's Blog
+Welcome
 <ul>
   <li> <a href="https://www.zhihu.com/people/light-96-62">Zhihu</a> </li>
   <li> <a href="https://www.linkedin.com/in/guangyu-lucius-liu">LinkedIn</a> </li>
